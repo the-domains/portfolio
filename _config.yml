@@ -1,6 +1,6 @@
 name: Portfolio
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.15814191522076726
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.8593905766028911
